@@ -1,4 +1,4 @@
-# Coupon Redemption & Customer Behavior (DMW)
+# Coupon Redemption & Customer Behavior 
 
 ## Project Overview
 This Data Mining & Warehousing project analyzes customer behavior and predicts coupon redemption using Python, Jupyter Notebook, Weka, and Power BI.
@@ -83,4 +83,4 @@ The dataset is highly imbalanced, with 77,640 non-redeemed records and 729 redee
 
 ## Author
 **Nandini Maurya**  
-SY B.Sc. – Data Mining & Warehousing Project
+Data Mining & Warehousing Project
